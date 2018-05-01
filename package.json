@@ -16,7 +16,7 @@
     "url": "https://github.com/chrixz/Background-vue-institute.git"
   },
   "bugs": "https://github.com/chrixz/Background-vue-institute/issues",
-  "homepage": "http://pchrixz.github.io/Background-vue-institute/",
+  "homepage": "http://chrixz.github.io/Background-vue-institute/",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
