@@ -13,10 +13,10 @@
   "main": "src/VideoBackground.vue",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chrixz/Background-vue-institute.git"
+    "url": "https://github.com/csamboni/Background-vue-institute.git"
   },
-  "bugs": "https://github.com/chrixz/Background-vue-institute/issues",
-  "homepage": "http://chrixz.github.io/Background-vue-institute/",
+  "bugs": "https://github.com/csamboni/Background-vue-institute/issues",
+  "homepage": "http://csamboni.github.io/Background-vue-institute/",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
